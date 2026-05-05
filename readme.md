@@ -21,7 +21,7 @@ The system is designed with scalability, modular architecture, and event-driven 
 
 * React / Next.js
 * JavaScript
-* TailwindCSS (if used)
+* TailwindCSS 
 
 ### Backend
 
